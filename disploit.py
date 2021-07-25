@@ -1,4 +1,3 @@
-#created by vx#4444 on discord niggaz
 
 import requests
 import sys
